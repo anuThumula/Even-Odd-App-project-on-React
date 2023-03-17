@@ -1,0 +1,46 @@
+/* Write your CSS here */
+.bg-cont {
+  background-color: #ffffff;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+}
+.card-cont {
+  background-image: linear-gradient(to bottom, #ff6e7f, #bfe9ff);
+  height: 50vh;
+  width: 50vw;
+  border-radius: 9px;
+  margin-top: 100px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.head {
+  color: #0f172a;
+  text-align: center;
+  font-family: roboto;
+  font-weight: bold;
+  font-size: 40px;
+}
+.para {
+  color: #334155;
+  text-align: center;
+  font-family: roboto;
+  font-size: 25px;
+}
+.button-cont {
+  text-align: center;
+}
+.button {
+  height: 6vh;
+  width: 8vw;
+  background-color: #ffffff;
+  color: #1e293b;
+  font-family: roboto;
+}
+.para2 {
+  color: #1e293b;
+  text-align: center;
+  font-family: roboto;
+  font-size: 12px;
+}
